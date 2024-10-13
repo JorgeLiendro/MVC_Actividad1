@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mvchoy\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj": {}
+    "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj": {}
   },
   "projects": {
-    "D:\\mvchoy\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj": {
+    "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mvchoy\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj",
         "projectName": "mvchoy.AccesoDatos",
-        "projectPath": "D:\\mvchoy\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\SCPC723.LABS\\.nuget\\packages\\",
-        "outputPath": "D:\\mvchoy\\mvchoy.AccesoDatos\\obj\\",
+        "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\liend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SCPC723.LABS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\liend\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj": {
-                "projectPath": "D:\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj"
+              "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj": {
+                "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj"
               },
-              "D:\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj": {
-                "projectPath": "D:\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj"
+              "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj"
               }
             }
           }
@@ -90,20 +90,20 @@
         }
       }
     },
-    "D:\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj": {
+    "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj",
+        "projectUniqueName": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj",
         "projectName": "mvchoy.Models",
-        "projectPath": "D:\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj",
-        "packagesPath": "C:\\Users\\SCPC723.LABS\\.nuget\\packages\\",
-        "outputPath": "D:\\mvchoy\\mvchoy.Models\\obj\\",
+        "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj",
+        "packagesPath": "C:\\Users\\liend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SCPC723.LABS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\liend\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -149,20 +149,20 @@
         }
       }
     },
-    "D:\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj": {
+    "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj",
         "projectName": "mvchoy.Utilidades",
-        "projectPath": "D:\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\SCPC723.LABS\\.nuget\\packages\\",
-        "outputPath": "D:\\mvchoy\\mvchoy.Utilidades\\obj\\",
+        "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\liend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SCPC723.LABS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\liend\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -9,3 +9,14 @@ D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.dll
 D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\refint\mvchoy.Models.dll
 D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.pdb
 D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\ref\mvchoy.Models.dll
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\bin\Debug\net8.0\mvchoy.Models.deps.json
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\bin\Debug\net8.0\mvchoy.Models.dll
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\bin\Debug\net8.0\mvchoy.Models.pdb
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.AssemblyInfoInputs.cache
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.AssemblyInfo.cs
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.csproj.CoreCompileInputs.cache
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.dll
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\obj\Debug\net8.0\refint\mvchoy.Models.dll
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.pdb
+C:\Users\liend\OneDrive\Imágenes\Escritorio\prograweb2\mvchoy\mvchoy.Models\obj\Debug\net8.0\ref\mvchoy.Models.dll

@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using mvchoy.AccesoDatos.Data;
+using mvchoy.AccesoDatos.Data.Repository.IRepository;
+using mvchoy.AccesoDatos.Data.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 //añadido
@@ -16,6 +18,9 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+//agregar contenedor de trabajo al contenedos IoC de inyeccion de dependencias
+builder.Services.AddScoped<IContenedorTrabajo, ContenedorTrabajo>();
+
 
 var app = builder.Build();
 
