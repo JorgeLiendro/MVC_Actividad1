@@ -1,0 +1,11 @@
+D:\mvchoy\mvchoy.Models\bin\Debug\net8.0\mvchoy.Models.deps.json
+D:\mvchoy\mvchoy.Models\bin\Debug\net8.0\mvchoy.Models.dll
+D:\mvchoy\mvchoy.Models\bin\Debug\net8.0\mvchoy.Models.pdb
+D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.AssemblyInfoInputs.cache
+D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.AssemblyInfo.cs
+D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.csproj.CoreCompileInputs.cache
+D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.dll
+D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\refint\mvchoy.Models.dll
+D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\mvchoy.Models.pdb
+D:\mvchoy\mvchoy.Models\obj\Debug\net8.0\ref\mvchoy.Models.dll

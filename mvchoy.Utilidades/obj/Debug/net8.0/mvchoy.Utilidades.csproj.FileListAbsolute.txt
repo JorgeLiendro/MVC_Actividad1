@@ -1,0 +1,11 @@
+D:\mvchoy\mvchoy.Utilidades\bin\Debug\net8.0\mvchoy.Utilidades.deps.json
+D:\mvchoy\mvchoy.Utilidades\bin\Debug\net8.0\mvchoy.Utilidades.dll
+D:\mvchoy\mvchoy.Utilidades\bin\Debug\net8.0\mvchoy.Utilidades.pdb
+D:\mvchoy\mvchoy.Utilidades\obj\Debug\net8.0\mvchoy.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvchoy\mvchoy.Utilidades\obj\Debug\net8.0\mvchoy.Utilidades.AssemblyInfoInputs.cache
+D:\mvchoy\mvchoy.Utilidades\obj\Debug\net8.0\mvchoy.Utilidades.AssemblyInfo.cs
+D:\mvchoy\mvchoy.Utilidades\obj\Debug\net8.0\mvchoy.Utilidades.csproj.CoreCompileInputs.cache
+D:\mvchoy\mvchoy.Utilidades\obj\Debug\net8.0\mvchoy.Utilidades.dll
+D:\mvchoy\mvchoy.Utilidades\obj\Debug\net8.0\refint\mvchoy.Utilidades.dll
+D:\mvchoy\mvchoy.Utilidades\obj\Debug\net8.0\mvchoy.Utilidades.pdb
+D:\mvchoy\mvchoy.Utilidades\obj\Debug\net8.0\ref\mvchoy.Utilidades.dll
