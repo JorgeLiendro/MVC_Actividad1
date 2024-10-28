@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I0+06dJWyyfxlo3BrszhXtj6Qos93Y1mXOIcXKJddRkT1fpzlagSL2X6ybae66WZcZPnF0cUXsZtUrGHWEmm+g==",
+  "dgSpecHash": "xPNNn4Pp4Q3bL8LyG5uKHu36KWeZvxYgkYJKKj15PBKd1oLfXNs+AjRMsrruFm/OF4jKOfo6A4XeuEYp1F9eaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy\\mvchoy.csproj",
+  "projectFilePath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvc_actividad1copia\\mvchoy\\mvchoy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liend\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\liend\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

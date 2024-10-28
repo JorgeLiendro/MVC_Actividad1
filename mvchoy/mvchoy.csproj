@@ -21,6 +21,14 @@
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Cliente\Data\" />
     <Folder Include="Areas\Cliente\Models\" />
+    <Folder Include="Areas\Proyecto\Controllers\" />
+    <Folder Include="Areas\Proyecto\Data\" />
+    <Folder Include="Areas\Proyecto\Models\" />
+    <Folder Include="Areas\Proyecto\Views\" />
+    <Folder Include="Areas\Reporte\Controllers\" />
+    <Folder Include="Areas\Reporte\Data\" />
+    <Folder Include="Areas\Reporte\Models\" />
+    <Folder Include="Areas\Reporte\Views\" />
     <Folder Include="Controllers\" />
     <Folder Include="wwwroot\imagenes\" />
   </ItemGroup>

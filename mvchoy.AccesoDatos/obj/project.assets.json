@@ -4252,11 +4252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj",
+      "projectUniqueName": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvc_actividad1copia\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj",
       "projectName": "mvchoy.AccesoDatos",
-      "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj",
+      "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvc_actividad1copia\\mvchoy.AccesoDatos\\mvchoy.AccesoDatos.csproj",
       "packagesPath": "C:\\Users\\liend\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.AccesoDatos\\obj\\",
+      "outputPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvc_actividad1copia\\mvchoy.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4277,11 +4277,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj": {
-              "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Models\\mvchoy.Models.csproj"
+            "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvc_actividad1copia\\mvchoy.Models\\mvchoy.Models.csproj": {
+              "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvc_actividad1copia\\mvchoy.Models\\mvchoy.Models.csproj"
             },
-            "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj": {
-              "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvchoy\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj"
+            "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvc_actividad1copia\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj": {
+              "projectPath": "C:\\Users\\liend\\OneDrive\\Imágenes\\Escritorio\\prograweb2\\mvc_actividad1copia\\mvchoy.Utilidades\\mvchoy.Utilidades.csproj"
             }
           }
         }
